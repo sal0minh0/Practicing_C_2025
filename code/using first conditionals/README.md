@@ -1,4 +1,4 @@
 # If.c
 
 >[!NOTE]
->* This program checks if the ==number 1== is 
+> *This program checks How the `1st value` compares to the `2nd value` inserted.*
