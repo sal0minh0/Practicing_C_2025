@@ -1,4 +1,4 @@
-# Example.c
+# Coffee.c
 
 >[!NOTE]
 > *Draw a Coffee with letters, spaces and Format Specifiers*
