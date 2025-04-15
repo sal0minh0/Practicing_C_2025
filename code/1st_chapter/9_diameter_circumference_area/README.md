@@ -1,0 +1,4 @@
+# Example.c
+
+>[!NOTE]
+> **
