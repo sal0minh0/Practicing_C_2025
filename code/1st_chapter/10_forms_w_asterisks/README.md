@@ -1,4 +1,4 @@
 # Asterisks.c
 
 >[!NOTE]
-> *Print Asterisks to draw forms*
+> *Print Asterisks to draw forms with spaces and Format Specifiers*
